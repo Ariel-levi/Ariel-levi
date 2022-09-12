@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=Ariel-levi">
+<img src="https://bad-apple-github-readme.vercel.app/api?show_bg=2&username=Ariel-levi">
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
