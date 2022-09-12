@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-<img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&show_icons=true&username=Ariel-levi">
+<img src="https://bad-apple-github-readme.vercel.app/api?show_icons=true&username=Ariel-levi">
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ariel-levi)](https://git.io/streak-stats)
 
 <!-- https://github.com/NatiRonen/ShipMarket -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
