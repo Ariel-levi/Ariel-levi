@@ -1,10 +1,11 @@
 ### Hi there 👋
+<img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=Ariel-levi">
 
-<details>
+<!-- <details>
 <summary>:trophy: Github Stats</summary>
 <img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=Ariel-levi">
 <img src="https://github-profile-trophy.vercel.app/?username=Ariel-levi">
-</details>
+</details> -->
 
 <!--
 **Ariel-levi/Ariel-levi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
