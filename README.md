@@ -1,8 +1,10 @@
 ### Hi there 👋
-<img src="https://bad-apple-github-readme.vercel.app/api?show_bg=3&username=Ariel-levi">
 
+<img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=Ariel-levi">
+
+<!-- https://github.com/NatiRonen/ShipMarket -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Ariel-levi&repo=shipmarket" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=NatiRonen&repo=ShipMarket" />
 </a>
 
 <!-- <details>
