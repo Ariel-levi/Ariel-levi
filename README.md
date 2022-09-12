@@ -5,7 +5,7 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ariel-levi)](https://git.io/streak-stats)
 
 <!-- https://github.com/NatiRonen/ShipMarket -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/NatiRonen/ShipMarket">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=NatiRonen&repo=ShipMarket" />
 </a>
 
