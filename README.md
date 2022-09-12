@@ -8,7 +8,7 @@
 <a href="https://github.com/NatiRonen/ShipMarket">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=NatiRonen&repo=ShipMarket" />
 </a>
-<br>
+</br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ariel-levi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- <details>
